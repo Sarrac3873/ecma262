@@ -25,7 +25,7 @@
   "homepage": "https://tc39.es/ecma262/",
   "devDependencies": {
     "ecmarkup": "^20.0.0",
-    "glob": "^7.1.6",
+    "glob": "^7.2.3",
     "jsdom": "^15.0.0",
     "pagedjs": "^0.4.3",
     "pagedjs-cli": "^0.4.3",
