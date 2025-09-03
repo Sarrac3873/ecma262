@@ -30,6 +30,6 @@
     "pagedjs": "^0.4.3",
     "pagedjs-cli": "^0.4.3",
     "tar-stream": "^2.2.0",
-    "tiny-json-http": "^7.1.2"
+    "tiny-json-http": "^7.5.1"
   }
 }
